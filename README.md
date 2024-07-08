@@ -1,4 +1,3 @@
-# neural-network-challenge-2
+# Neural-Networks-2
 
-References:
-ChatGPT 
+ 
